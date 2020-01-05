@@ -1,0 +1,15 @@
+#477801  BV7800 $6$KB$v75rXQjZfOqGAHkWyz8YYpvUahK.r8qWHMQIKvT3xU02dOllet14jRfnSIjKUbiNyJIVrbruE3O/jHCSjd/PK/
+3380000 solutions explored
+3380000 solutions explored
+#1488301 FS8300 $6$KB$GGczYtWPegmbqR24/r7bFE/PwvJ2KqBnIxVuaUZGsJLiATfagVJzuOlXRJGNnaoM8lt0a5bfoYuqfbdfFrr4S/
+3380000 solutions explored
+3380000 solutions explored
+#2018202 HT8201 $6$KB$82yAxLTUZsQOF.J8J7Hw.J/E6K8BbonzISK4AlKYaBeZ.WUWQjXmMOc0gA8mEJjSKrEFyMnUbk3HZJOpku8r01
+3380000 solutions explored
+3380000 solutions explored
+#1042703 RA2702 $6$KB$usfAuCJFp318d..ptrR39D1YKxmk3a6Cl7qqAH09azM9TpWG12ioaPpyudTcmhEFt9UDfnU0L31DSuSds/BvG0
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 40166509488698ns or 40166.509488698s
+Time elapsed was 40166513015453ns or 40166.513015453s
+Time elapsed was 40166511151854ns or 40166.511151854s
